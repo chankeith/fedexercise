@@ -9,8 +9,8 @@ Build a browser based web application that fetches images and then displays thos
 
 ### Criteria
  - Implementation of basic functionality - viewing images from an API
- - Choice of design, layout and intuitiveness of the interface
  - The inclusion of any reasonable features for an image viewing application
+ - Choice of design, layout and intuitiveness of the interface
  - Page load times and performance
  - Test automation, including choice of test cases
  - Use of source control to organize and store code
